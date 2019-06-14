@@ -3,6 +3,7 @@
  * 
  * 1
  * 2
+ * 3
  */
 class PluginTestsGit{
   function __construct() {
