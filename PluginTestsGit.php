@@ -1,4 +1,7 @@
 <?php
+/**
+ * 
+ */
 class PluginTestsGit{
   function __construct() {
   }
