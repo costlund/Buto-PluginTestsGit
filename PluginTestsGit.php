@@ -7,6 +7,7 @@
  * 4
  * 5
  * 6
+ * 7
  */
 class PluginTestsGit{
   function __construct() {
